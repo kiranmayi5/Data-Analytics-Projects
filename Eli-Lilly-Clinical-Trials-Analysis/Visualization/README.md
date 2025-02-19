@@ -5,7 +5,7 @@ This folder contains the **Tableau dashboard** for the clinical trials analysis.
 ## 📌 Contents:
 - `Eli-Lilly-Clinical-Trials-Dashboard.twbx` → Interactive Tableau dashboard.
 
-## 📊 Dashboard Features:
+## Dashboard Features:
 ✔ **Trial Duration Analysis** by phase.  
 ✔ **Intervention Type Breakdown** (Drugs, Biologic, Medical Devices, etc.).  
 ✔ **Global Distribution of Clinical Trials** with country-level insights.  
